@@ -10,7 +10,8 @@ int main(void) {
 
    return 0;
 }
-/*
+/* Actual date I wrote My first code in C: June 23, 2020
+
 Line number 4 “\n” is creating a new line; it gives me a vertical tab and moves me to the next line.
 
 Line number 5 “\b\n\” while \b moves the cursor one position back \n is creating a new line.
